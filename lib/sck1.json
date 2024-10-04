@@ -1,0 +1,96 @@
+{
+  "2349069060810@s.whatsapp.net": {
+    "id": "2349069060810@s.whatsapp.net",
+    "name": "Plus",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 1290,
+      "level": 3,
+      "ttms": 40,
+      "need": 1336
+    }
+  },
+  "2348178773734@s.whatsapp.net": {
+    "id": "2348178773734@s.whatsapp.net",
+    "name": "ETK",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 62,
+      "level": 1,
+      "ttms": 7,
+      "need": 167
+    }
+  },
+  "2349065588652@s.whatsapp.net": {
+    "id": "2349065588652@s.whatsapp.net",
+    "name": "KAMI_NOAI",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 72,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "2349022634266@s.whatsapp.net": {
+    "id": "2349022634266@s.whatsapp.net",
+    "name": "Abdulhafiz",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 3,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "2349065275828@s.whatsapp.net": {
+    "id": "2349065275828@s.whatsapp.net",
+    "name": "Jordanmiyamoto宮本武蔵",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {}
+  },
+  "2348178773731@s.whatsapp.net": {
+    "id": "2348178773731@s.whatsapp.net",
+    "name": "MeMee✨",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 33,
+      "level": 1,
+      "ttms": 5,
+      "need": 167
+    }
+  },
+  "2348072954430@s.whatsapp.net": {
+    "id": "2348072954430@s.whatsapp.net",
+    "name": "Caleb",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {}
+  },
+  "2347013769419@s.whatsapp.net": {
+    "id": "2347013769419@s.whatsapp.net",
+    "name": "Barnabas Bujazzy",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {}
+  }
+}
